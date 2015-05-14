@@ -2,7 +2,7 @@
     "port": 5000,
     "bots": {
         "github": {
-            "hostname": "yu01.github.io",
+            "hostname": "github.io",
             "token": "6ba6e747289567740e689a8fd8d30888",
             "route": "http://yu01.github.io/github/hooks/21328147"
         }
