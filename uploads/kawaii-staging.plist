@@ -14,18 +14,17 @@
 					<string>https://yu01.github.io/uploads/KawaiiPlus.ipa</string>
 				</dict>
 				<dict>
-          <key>kind</key>
-          <string>display-image</string>
-          <key>url</key>
-          <string>https://yu01.github.io/uploads/Icon57.png</string>
-        </dict>
-
-        <dict>
-          <key>kind</key>
-          <string>full-size-image</string>
-          <key>url</key>
-          <string>https://yu01.github.io/uploads/Icon512.png</string>
-        </dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://yu01.github.io/uploads/display-image.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://yu01.github.io/uploads/full-size-image.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
